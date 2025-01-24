@@ -22,7 +22,6 @@ class TiendaProvider {
             override fun onCancelled(error: DatabaseError) {
                 println("Error al obtener los datos ${error.message}")
             }
-
         })
     }
 }

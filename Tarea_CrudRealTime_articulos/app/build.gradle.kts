@@ -41,6 +41,7 @@ android {
 
 dependencies {
 
+    // Autenticación con Google
     implementation("com.google.android.gms:play-services-auth:21.3.0")
 
     implementation(libs.androidx.core.ktx)

@@ -124,10 +124,7 @@ class AddActivity : AppCompatActivity() {
                                     Toast.LENGTH_SHORT
                                 ).show()
                             }
-
-
                     }
-
                 }
 
                 override fun onCancelled(error: DatabaseError) {
