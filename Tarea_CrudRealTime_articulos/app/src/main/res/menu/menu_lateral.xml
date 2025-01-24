@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_borrarTodo"
+        android:icon="@drawable/googleg_disabled_color_18"
+        android:title="Borrar todo" />
+    <item
+        android:id="@+id/item_logout"
+        android:icon="@drawable/googleg_disabled_color_18"
+        android:title="Cerrar sesión" />
+    <item
+        android:id="@+id/item_salir"
+        android:icon="@drawable/googleg_disabled_color_18"
+        android:title="Salir" />
+</menu>
